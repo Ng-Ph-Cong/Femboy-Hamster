@@ -1,0 +1,186 @@
+body
+{
+    background-color: #222222;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.Welcome
+{
+    color: aqua;    
+}
+
+.Tap1
+{
+    width: 800px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+.Tap1 #LogoTap1
+{
+    width: 300px;
+    height: 200px;
+
+    position: absolute;
+    left: 50px;
+    top: 25px;
+}
+.Tap1 #TitleTap1
+{
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 400px;
+    color: azure;
+    font-size: 36px;
+    text-align: left;
+}
+.Tap1 #ButtonTap1
+{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 160px;
+    left: 400px;
+    color: rgb(167, 200, 165);
+    background-color: rgb(58, 76, 179);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.Tap1 #ButtonTap1:hover
+{
+    width: 120px;
+    height: 70px;
+    position: absolute;
+    top: 150px;
+    left: 390px;
+    color: rgb(167, 200, 165);
+    background-color: rgb(58, 76, 179);
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+.Tap2
+{
+    width: 800px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    position: absolute;
+    right: 10px;
+    top: 100px;
+}
+.Tap2 #LogoTap2
+{
+    width: 300px;
+    height: 200px;
+
+    position: absolute;
+    left: 50px;
+    top: 25px;
+}
+.Tap2 #TitleTap2
+{
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 400px;
+    color: azure;
+    font-size: 36px;
+    text-align: left;
+}
+.Tap2 #ButtonTap2
+{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 160px;
+    left: 400px;
+    color: rgb(167, 200, 165);
+    background-color: rgb(58, 76, 179);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.Tap2 #ButtonTap2:hover
+{
+    width: 120px;
+    height: 70px;
+    position: absolute;
+    top: 150px;
+    left: 390px;
+    color: rgb(167, 200, 165);
+    background-color: rgb(58, 76, 179);
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+.VideoTap1
+{
+    width: 80%;
+    height: auto;
+    margin: 50px;
+    
+}.VideoTap2
+{
+    width: 80%;
+    height: auto;
+    margin: 50px;
+    
+}
+
+.TestGay
+{
+    width: 800px;
+    height: 250px;
+    position: absolute;
+    top: 500px;
+    left: 550px;
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+.TestGay #NumberInput
+{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+
+    width: 300px;
+    height: 50px;
+}
+.TestGay #ButtonCheck
+{
+    width: 100px;
+    height: 50px;
+
+    position: absolute;
+    top: 82px;
+    left: 430px;
+
+    border: none;
+    border-radius: 15px;
+    background-color:burlywood;
+}
+.TestGay #KetQuaCheck
+{
+    width: 500px;
+    height: 300px;
+    font-size: 36px;
+
+    position: absolute;
+    top: 140px;
+    left: 30px;
+
+    color: aliceblue;
+}
